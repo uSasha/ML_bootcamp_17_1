@@ -25,6 +25,7 @@ We have two datasets with 25289 players each, one for training and one for valid
 Test dataset is split in two parts: 40% is used for public leaderboard and 60% is used for final results calculation.
 
 Metric was logloss.
+You can find train and test data in this repo.
 
 
 
