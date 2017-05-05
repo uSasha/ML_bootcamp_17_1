@@ -9,11 +9,17 @@ All stats are calculated during last two weeks.
 
 There are 12 features in this dataset: 
 maxPlayerLevel - max level that player won
+
 numberOfAttemptedLevels - number of levels that player tried
+
 attemptsOnTheHighestLevel - number of attempts to win highest level
+
 totalNumOfAttempts - overall number of attempts
+
 averageNumOfTurnsPerCompletedLevel - mean number of turns on completed levels
-doReturnOnLowerLevels - does player retried levels that were already complete?
+
+doReturnOnLowerLevels - does player retried levels that were already complete
+
 numberOfBoostersUsed - total number of used boosters
 fractionOfUsefullBoosters - fraction of busters which led to level completion
 totalScore - total score during all gaming period
