@@ -7,19 +7,19 @@ http://mlbootcamp.ru/sandbox/10/
 In this competition I predicted will player drop the online game or not based on his game stats.
 All stats are calculated during last two weeks.
 
-There are 12 features in this dataset: 
-maxPlayerLevel - max level that player won
-numberOfAttemptedLevels - number of levels that player tried
-attemptsOnTheHighestLevel - number of attempts to win highest level
-totalNumOfAttempts - overall number of attempts
-averageNumOfTurnsPerCompletedLevel - mean number of turns on completed levels
-doReturnOnLowerLevels - does player retried levels that were already complete?
-numberOfBoostersUsed - total number of used boosters
-fractionOfUsefullBoosters - fraction of busters which led to level completion
-totalScore - total score during all gaming period
-totalBonusScore - total bonus score during all gaming period
-totalStarsCount - total number of stars during all gaming period
-numberOfDaysActuallyPlayed - number of days when player played the game
+There are 12 features in this dataset:
+- maxPlayerLevel - max level that player won
+- numberOfAttemptedLevels - number of levels that player tried
+- attemptsOnTheHighestLevel - number of attempts to win highest level
+- totalNumOfAttempts - overall number of attempts
+- averageNumOfTurnsPerCompletedLevel - mean number of turns on completed levels
+- doReturnOnLowerLevels - does player retried levels that were already complete?
+- numberOfBoostersUsed - total number of used boosters
+- fractionOfUsefullBoosters - fraction of busters which led to level completion
+- totalScore - total score during all gaming period
+- totalBonusScore - total bonus score during all gaming period
+- totalStarsCount - total number of stars during all gaming period
+- numberOfDaysActuallyPlayed - number of days when player played the game
 
 We have two datasets with 25289 players each, one for training and one for validation.
 Test dataset is split in two parts: 40% is used for public leaderboard and 60% is used for final results calculation.
