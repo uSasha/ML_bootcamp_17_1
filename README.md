@@ -27,6 +27,7 @@ Test dataset is split in two parts: 40% is used for public leaderboard and 60% i
 Metric was logloss.
 
 
+
 ### First impression
 From the beginning this competition seemed a bit boring for me: many features are correlating with each other. It's really hard to do feature engineering here, because I don't see any difference between "score", “bonus score" and “stars”, features don't make much sense for me. No categorical features at all, nowhere to find additional data. 
 During solving process I realized that this is amazing opportunity to sharpen my skills in many fields: 
@@ -34,6 +35,7 @@ During solving process I realized that this is amazing opportunity to sharpen my
 - fine tune algorithms
 - get stable solution without overfitting based not only on test dataset results, but also on my own common sense
 - stacking/boosting/bagging algorithms
+
 
 
 ### During the contest I found out:
@@ -53,6 +55,7 @@ During visual data analysis I found out that there are a lot of strange users, w
 First time I spend a lot of time tuning XGB parameters to get better result. This made a huge difference and I moved from 80 place to 38.
 
 Before competition end my position was bottom of top 10% (52 out of 614).
+
 
 
 ### After competition end:
